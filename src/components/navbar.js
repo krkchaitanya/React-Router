@@ -15,7 +15,7 @@ render(){
              <span className="icon-bar"></span>
              <span className="icon-bar"></span>
           </button>
-          <Link to="/" className="navbar-brand">WiredConnections</Link>
+          <Link to="/" className="navbar-brand">React Router</Link>
         </div>
         <div className="collapse navbar-collapse" id="targetting">
           <ul className="nav navbar-nav">
